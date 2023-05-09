@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T01:08:17Z" name="Default suite" finished-at="2023-05-02T01:08:20Z" duration-ms="3608">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T01:08:17Z" name="Default test" finished-at="2023-05-02T01:08:20Z" duration-ms="3608">
+      <class name="Test.CreateAccountTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Test.CreateAccountTest@78e4deb0]" started-at="2023-05-01T21:08:14Z" name="SetUp" finished-at="2023-05-01T21:08:17Z" duration-ms="2304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="createaccounttest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Test.CreateAccountTest@78e4deb0]" started-at="2023-05-01T21:08:17Z" name="createaccounttest" data-provider="fb" finished-at="2023-05-01T21:08:20Z" duration-ms="3112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hossain]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AlamHossain70]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9488958793]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1967]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createaccounttest -->
+      </class> <!-- Test.CreateAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
